@@ -1,0 +1,11 @@
+action_id,action_label,type,video_file,description
+A001,Seated_Knee_Extension,dynamic,,앉아서 다리 앞으로 뻗기
+A002,Shoulder_Reach_Up_&Down,dynamic,,팔 위아래로 뻗기
+A003,Foam_Roller_Hip_Hinge,dynamic,,폼롤러 힙힌지
+A004,Assisted_Shoulder_Flexion,dynamic,,막대 보조 어깨 들기
+A005,Straight_Leg_Raise,dynamic,,누워서 다리 펴고 들기
+A006,Side-lying_Leg_Raise,dynamic,,옆으로 누워 다리 들기
+A007,Hip_Rotation_to_Extension,dynamic,,고관절 회전 후 일어나기
+A008,Supine_Leg_Raise_n_Abduction,dynamic,,누워서 다리 들어 옆으로 벌리기
+A009,Adductor_Bridge,dynamic,,무릎 모으며 엉덩이 들기
+A010,Bird_Dog,dynamic,,버드독

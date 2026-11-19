@@ -1,0 +1,12 @@
+Validation Accuracy: 0.833333
+Validation Macro F1: 0.822222
+
+                         precision    recall  f1-score   support
+
+  Foam_Roller_Hip_Hinge       0.67      1.00      0.80         2
+  Seated_Knee_Extension       1.00      0.50      0.67         2
+Shoulder_Reach_Up_&Down       1.00      1.00      1.00         2
+
+               accuracy                           0.83         6
+              macro avg       0.89      0.83      0.82         6
+           weighted avg       0.89      0.83      0.82         6

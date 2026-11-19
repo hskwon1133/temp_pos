@@ -1,0 +1,7 @@
+﻿clip_id,subject,true_label,pred_label,confidence,correct
+S02_A001_T01,S02,Seated_Knee_Extension,Seated_Knee_Extension,0.4533333333333333,True
+S02_A001_T02,S02,Seated_Knee_Extension,Foam_Roller_Hip_Hinge,0.4033333333333333,False
+S02_A002_T01,S02,Shoulder_Reach_Up_&Down,Shoulder_Reach_Up_&Down,0.6433333333333333,True
+S02_A002_T02,S02,Shoulder_Reach_Up_&Down,Shoulder_Reach_Up_&Down,0.67,True
+S02_A003_T01,S02,Foam_Roller_Hip_Hinge,Foam_Roller_Hip_Hinge,0.48333333333333334,True
+S02_A003_T02,S02,Foam_Roller_Hip_Hinge,Foam_Roller_Hip_Hinge,0.57,True

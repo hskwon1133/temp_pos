@@ -1,0 +1,2 @@
+﻿clip_id,subject,true_label,pred_label,confidence,correct,video_path,keypoint_csv,action_label
+S02_A001_T02,S02,Seated_Knee_Extension,Foam_Roller_Hip_Hinge,0.4033333333333333,False,data/day05/videos/S02/S02_A001_T02.mp4,data/day05/keypoints/S02/Seated_Knee_Extension/S02_A001_T02.csv,Seated_Knee_Extension
